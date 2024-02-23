@@ -1,0 +1,47 @@
+.sectionNav{
+    padding: 40px 2%;
+    background: #292E36;
+    border-bottom: 2px solid #5C6168;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo img{
+    width: 280px;
+    height: 130px;
+}
+
+.sectionDown{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 2%;
+    background: #292E36;
+}
+
+.links{
+    display: flex;
+    gap: 20px;
+}
+
+.mainLinks a{
+    color: aliceblue;
+}
+
+.mainLinks:nth-child(1) a{
+    color: #E1B168;
+}
+
+.socialMedia{
+    display: flex;
+    gap: 10px;
+}
+
+.icon {
+    color: white;
+    cursor: pointer;
+}

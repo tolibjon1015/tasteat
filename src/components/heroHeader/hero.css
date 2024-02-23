@@ -1,0 +1,26 @@
+.mainHero{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 40px;
+    padding-left: 2%;
+    padding-right: 2%;
+    background: #292E36;
+}
+
+.add{
+    color:#E1B168;
+}
+
+.leftside h1{
+    font-size: 100px;
+    font-family: Cormorant Infant;
+    color: aliceblue;
+}
+
+.leftside p{
+    color: aliceblue;
+    font-size: 20px;
+    padding: 20px 0;
+    width: 70%;
+}

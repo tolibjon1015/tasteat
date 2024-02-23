@@ -1,0 +1,80 @@
+#extraL{
+    width: 78px;
+    padding: 2px 0;
+}
+
+.quoteBorder{
+    width: 140px;
+    text-align: center;
+    border-top: 2px solid #E1B168;
+    border-bottom: 2px solid #E1B168;
+    font-size: 20px;
+    padding-top: 1px;
+}
+
+.bigZone{
+    width: 640px;
+    border: 1px solid #C4C4C4;
+    padding: 3% 5%;
+}
+
+.extraTextEffect{
+    color: #555555;
+    font-family: Josefin Sans;
+}
+
+.bigImageSide:nth-child(1){
+    width: 640px;
+    height: 384px;
+    background-image: url("../../images/bigImage.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bigImageSide:nth-child(2){
+    width: 640px;
+    height: 384px;
+    background-image: url("../../images/bigImage1.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bigcard{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 3% 0;
+}
+
+#extraXL{
+    width: 130px;
+    padding: 2px 0;
+}
+
+.quote{
+    display: flex;
+    gap: 30px;
+}
+
+.quoteText h2{
+    width: 78%;
+    color: #292E36;
+    font-family: Cormorant Infant;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 35px;
+    letter-spacing: 0.2px;
+    padding: 20px 0;
+}
+
+.quoteText p{
+    width: 83%;
+    color: #292E36;
+    font-family: Josefin Sans;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+}

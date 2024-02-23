@@ -1,0 +1,52 @@
+.cardSideSection{
+    padding: 40px 2%;
+}
+
+.flexCardMain{
+    display: flex;
+    justify-content: center;
+}
+
+.imageCard{
+    width: 370px;
+    padding: 15px;
+}
+
+.imageCard img{
+    width: 100%;
+    border-radius: 4px;
+}
+
+.cardMainTitle{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #DCDCDC;
+    padding: 10px 0;
+}
+
+.cardMainTitle h1{
+    color:#292E36;
+    font-size: 26px;
+    font-weight: 400;
+}
+
+.cardSecondDesc{
+    font-family: Josefin Sans;
+    font-size: 24px;
+    font-weight: 400;
+    color: #555555;
+    padding-top: 10px;
+}
+
+.extra{
+    padding: 20px 40px;
+    color: #E1B168;
+    font-size: 17px;
+    margin-top: 40px;
+}
+
+.saidMain{
+    display: flex;
+    justify-content: center;
+}

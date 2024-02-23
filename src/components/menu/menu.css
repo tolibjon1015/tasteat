@@ -1,0 +1,88 @@
+.borderWithMenu{
+    width: 60px;
+    text-align: center;
+    border-top: 2px solid tomato;
+    border-bottom: 2px solid tomato;
+    font-size: 20px;
+}
+
+.staticSide{
+    width: 400.25px;
+}
+
+.startFlex{
+    display: flex;
+    justify-content:space-between;
+    gap: 20px;
+    padding: 20px 0;
+}
+
+
+.plusC{
+    width: 255px;
+    color: #E1B168;
+}
+
+.texts{
+    display: flex;
+    flex-direction: column;
+}
+
+.texts h1{
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.texts p{
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 20px;
+}
+
+.texts img{
+    width:398px;
+    height:548px;
+    padding: 30px 0;
+}
+
+.starter{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 20px;
+    font-weight: 400;
+}
+
+.forText{
+    margin-bottom: 20px;
+    font-size: 26px;
+    font-weight: 400;
+    color: #292E36;
+}
+
+.text h2{
+    color: #292E36;
+    margin-top: 10px;
+}
+
+.text p{
+    color:#555555;
+    margin-top: 5px;
+}
+
+.place{
+    width: 80px;
+}
+
+.loveCard{
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.price{
+    font-size: 15px;
+    margin-top: 20px;
+    font-weight: 400;
+    color: #292E36;
+}

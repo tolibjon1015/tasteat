@@ -1,0 +1,73 @@
+.extraContainer{
+    background: #292E36;
+    margin-top: 50px;
+}
+
+.miniContainer{
+    padding: 4% 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.miniBorder{
+    width: 140px;
+    padding: 3px 0;
+    text-align: center;
+    border-top: 2px solid #E1B168;
+    border-bottom: 2px solid #E1B168;
+    color: #E1B168;
+    font-family: Josefin Sans;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 3px;
+}
+
+.mini h1{
+    font-size: 40px;
+    font-weight: 400;
+    padding: 20px 0;
+    color: #FFFFFF;
+    font-family: Cormorant Infant;
+    letter-spacing: 0.4px;
+}
+
+.mini p{
+    width: 60%;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Josefin Sans;
+    color: #FFFFFF;
+    line-height: 25px;
+    letter-spacing: 0.2px;
+}
+
+.MiniRightSide{
+    display: flex;
+    gap: 20px;
+}
+
+.mainMiniCard{
+    width: 254px;
+    height: 235px;
+    background: #323841;
+    padding: 20px;
+}
+
+.mainMiniCardS{
+    min-height: 197px;
+    background: #292E36;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.proS h1{
+    padding-top: 10px;
+    font-family: Cormorant Infant;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 0.2;
+    color: #FFFFFF;
+}

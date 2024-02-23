@@ -1,0 +1,81 @@
+.containerOf{
+    padding: 60px 2%;
+}
+
+.newWithBorder{
+    width: 100px;
+    text-align: center;
+    margin: 0 auto;
+    border-top: 2px solid #E1B168;
+    border-bottom: 2px solid #E1B168;
+    color: #292E36;
+}
+
+.textOfer h1{
+    margin: 20px 0;
+    color: #292E36;
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.textOfer p{
+    color: #292E36;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.cardWithOffer{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 40px 0;
+}
+
+.flexOffer{
+    width: 665px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 2%;
+}
+
+.flexOffer:nth-child(1){
+    background-image: url("../../images/card1.png");
+}
+
+.flexOffer:nth-child(2){
+    background-image: url("../../images/card2.png");
+}
+
+.growBottom{
+    width: 50%;
+    text-align: center;
+    border-top: 2px solid #292E36;
+    border-bottom: 2px solid #292E36;
+    font-size: 18px;
+    font-weight: 400;
+    color: #292E36;
+}
+
+.textOfferSide img{
+    width: 167px;
+    height: 104px;
+    padding-bottom: 20px;
+}
+
+.textOfferSide h1{
+    color: #292E36;
+    font-size: 40px;
+    letter-spacing: 0.2px;
+    font-weight: 400;
+    padding: 20px 0;
+}
+
+.textOfferSide p{
+    color: #555555;
+    font-size: 20px;
+    letter-spacing: 0.2px;
+    font-weight: 400;
+}

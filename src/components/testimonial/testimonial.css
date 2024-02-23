@@ -1,0 +1,87 @@
+.testiWithBorder{
+    width: 100px;
+    text-align: center;
+    border-top: 2px solid #E1B168;
+    border-bottom: 2px solid #E1B168;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.testimonial{
+    padding: 60px 2%;
+    background: #292E36;
+}
+
+.textSide{
+    padding: 20px 0;
+}
+
+.textSide h1{
+    font-size: 40px;
+    font-weight: 400;
+    color: aliceblue;
+}
+
+.textSide p{
+    font-size: 20px;
+    font-family: Josefin Sans;
+    font-weight: 400;
+    margin-top: 10px;
+    color: aliceblue;
+}
+
+.containerFath{
+    padding: 50px 0;
+}
+
+.topTesti{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    border-bottom: 1px solid #797E89;
+    padding-bottom: 20px;
+}
+
+.topTesti img{
+    width: 113px;
+    height: 113px;
+}
+
+.topTesti h1{
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+}
+
+.topTesti p{
+    color: #E1B168;
+    font-size: 17px;
+    margin-top: 7px;
+}
+
+.containerMain{
+    display: flex;
+    gap: 20px;
+}
+
+.containerTesti{
+    width: 544px;
+    padding: 0 40px;
+    background: #343942;
+}
+
+.downTesti p{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30.5px;
+    letter-spacing: 0.25px;
+    color: #FFFFFF;
+    padding-top: 20px;
+}
+
+.fullImageS img{
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+}
